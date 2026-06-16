@@ -1,6 +1,7 @@
 # Simpli
 
-## Descripción de los códigos
+## Descripción de los códigos: ambos siguen la misma lógica, solo presentan datos de distintas empresas
+
 - codigo_limpio copy 2.ipynb -> empresa F
 - codigo_limpio copy 82651 -> empresa CT
 
