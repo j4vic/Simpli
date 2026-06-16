@@ -78,6 +78,7 @@ Se realizan las siguientes tareas:
 ### 2. Agrupación de Checkouts
 
 Los checkouts cercanos en tiempo y espacio son agrupados para representar una única parada realizada.
+Utilizamos criterio radio 10m
 
 Resultado:
 
@@ -90,6 +91,7 @@ parada_agrupada_realizada_id
 ### 3. Detección de Paradas GPS
 
 A partir de los datos GPS se identifican detenciones del vehículo.
+Utilizamos criterio desplazamiento menor a 100m en ventana de 60 seg
 
 Resultado:
 
